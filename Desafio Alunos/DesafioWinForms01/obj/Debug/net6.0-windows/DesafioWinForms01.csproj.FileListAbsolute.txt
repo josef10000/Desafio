@@ -1,0 +1,34 @@
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.exe
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.deps.json
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.runtimeconfig.json
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.dll
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.pdb
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.csproj.AssemblyReference.cache
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.csproj.GenerateResource.cache
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.AssemblyInfoInputs.cache
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.AssemblyInfo.cs
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.csproj.CoreCompileInputs.cache
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.dll
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\refint\DesafioWinForms01.dll
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.pdb
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.genruntimeconfig.cache
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\ref\DesafioWinForms01.dll
+F:\Projetos\C_Sharp_Atos\DesafioWinForms01\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.Lista.resources
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.exe
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.deps.json
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.runtimeconfig.json
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.dll
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\bin\Debug\net6.0-windows\DesafioWinForms01.pdb
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.csproj.AssemblyReference.cache
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.Lista.resources
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.csproj.GenerateResource.cache
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.AssemblyInfoInputs.cache
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.AssemblyInfo.cs
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.csproj.CoreCompileInputs.cache
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.dll
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\refint\DesafioWinForms01.dll
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.pdb
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\DesafioWinForms01.genruntimeconfig.cache
+C:\Users\Frazão\Desktop\Desafio\Desafio Alunos\DesafioWinForms01\obj\Debug\net6.0-windows\ref\DesafioWinForms01.dll
